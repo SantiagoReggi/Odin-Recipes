@@ -1,2 +1,2 @@
 # Odin-Recipes
-Recipes page.
+Recipes page training from OdinProject.
