@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+.burga{
+    border-radius: 20%;
+}
+.burga:hover{
+    background-color: beige;
+}
+.lasa{
+    border-radius: 20%;
+}
+.pizza{
+    border-radius: 20%;
+}
+.pizza:hover{
+    background-color: beige;
+}
+.lasa:hover{
+    background-color: beige;
+}
