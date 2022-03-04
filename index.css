@@ -1,21 +1,18 @@
 body{
     background-color: bisque;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
 }
-.burga{
+
+.title{
+    background-color: gainsboro;
+}
+
+.button{
     border-radius: 20%;
+    width: 20%;
+    text-align: center;
 }
-.burga:hover{
-    background-color: beige;
-}
-.lasa{
-    border-radius: 20%;
-}
-.pizza{
-    border-radius: 20%;
-}
-.pizza:hover{
-    background-color: beige;
-}
-.lasa:hover{
+
+.button:hover{
     background-color: beige;
 }

@@ -1,6 +1,21 @@
 body{
     background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
 }
 img{
     border-radius: 10%;
+}
+#image{
+    text-align: center;
+}
+.main{
+    width: 20%;
+    background-color: burlywood;
+}
+h2,
+h1{
+    text-align: center;
+}
+.main:hover{
+    background-color: beige;
 }
